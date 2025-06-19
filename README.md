@@ -3,7 +3,7 @@
 Below is a Time Delay Neural Network (TDNN) Conformer implementation for the WeNet speech recognition toolkit.
 The TDNN-Conformer model is trained on the LibriSpeech dataset (instructions regarding download are below).
 
-To read the research paper, click here: [View the Paper](TDNN_Conformer.pdf)
+To read the full paper, click here: [Read the Paper](TDNN_Conformer.pdf)
 
 ## Table of Contents
 
