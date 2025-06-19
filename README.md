@@ -1,4 +1,4 @@
-# TDNN-Conformer designed for the WeNet Framework
+# TDNN-Conformer
 
 Below is a Time Delay Neural Network (TDNN) Conformer implementation for the WeNet speech recognition toolkit.
 The TDNN-Conformer model is trained on the LibriSpeech dataset (instructions regarding download are below).
